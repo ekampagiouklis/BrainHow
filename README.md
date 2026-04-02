@@ -1,6 +1,6 @@
-# 🧠 BrainHow iOS App
+# 🧠 BrainHow
 
-An innovative iOS application that transforms learning through interactive 3D
+An innovative iOS/iPadOS application that transforms learning through interactive 3D
 visualizations and Augmented Reality experiences. Built to make education
 immersive, engaging, and fun for everyone.
 
@@ -73,9 +73,9 @@ immersive, engaging, and fun for everyone.
 
 ## 👤 Author
 
-**[Your Name]**
+**[Evangelos Kampagiouklis]**
 [🐙 GitHub Profile](https://github.com/ekampagiouklis)
-
+[🙋🏼‍♂️Linkedin Profile](https://www.linkedin.com/in/evangelos-kampagiouklis-27676b247/)
 ---
 
 _Last updated: 2026-04-02_
