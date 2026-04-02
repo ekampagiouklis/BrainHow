@@ -36,7 +36,6 @@ immersive, engaging, and fun for everyone.
 | **IDE** | Xcode |
 | **3D Graphics** | SceneKit / RealityKit |
 | **AR Framework** | ARKit |
-| **Dependency Manager** | CocoaPods |
 | **Version Control** | Git & GitHub |
 
 ---
@@ -46,7 +45,6 @@ immersive, engaging, and fun for everyone.
 - iOS **14.0** or later
 - Xcode **13.0** or later
 - iPhone with **A9 chip** or later *(required for AR Mode)*
-- [CocoaPods](https://cocoapods.org/) installed on your Mac
 - An **Apple Developer Account** for deployment on a physical device
 
 ---
