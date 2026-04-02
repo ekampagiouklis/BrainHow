@@ -10,7 +10,9 @@ immersive, engaging, and fun for everyone.
 
 | 🏠 Home Screen | 🌐 3D View | 🔮 AR Mode |
 |:-:|:-:|:-:|
-| *(Home)* | *(3D Explorer)* | *(AR Scene)* |
+
+ <img width="250" height="970" alt="IMG_0606" src="https://github.com/user-attachments/assets/ed60e157-0cdf-47ef-a258-017eff32af17" />  <img width="250" height="970" alt="IMG_0613" src="https://github.com/user-attachments/assets/9ef78a9c-2722-40b2-9075-21db40351a34" />
+ <img width="250" height="970" alt="IMG_0611" src="https://github.com/user-attachments/assets/51367202-b284-427e-9088-b456e59079c7" /> 
 
 ---
 
